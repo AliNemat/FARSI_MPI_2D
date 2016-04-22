@@ -1,0 +1,8 @@
+XBar(1)=Lx/4.0 !11.0*Landa !1.0 !0.25
+XBar(2)=Ly/2.0 !2.45015479685950  ! Landa     !0.5
+
+UBar(:)=0
+Omega=0
+
+IniH=-0.0055
+smooth=.True.

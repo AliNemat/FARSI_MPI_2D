@@ -1,0 +1,17 @@
+Xgage(1)=0.0 !0.5*landa
+XGage(2)=landa
+Xgage(3)=2.0*landa
+XGage(4)=4.0*landa
+XGage(5)=6.0*landa
+XGage(6)=8.0*landa
+
+XGage(7)=9*landa
+XGage(8)=10*landa
+XGage(9)=10.5*landa
+XGage(10)=12.0*landa
+XGage(11)=15*landa
+
+XGage(12)=18*landa
+XGage(13)=19*landa
+XGage(14)=lx-landa
+
